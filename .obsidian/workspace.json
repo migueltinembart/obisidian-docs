@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Test.md",
+                "file": "posts/Preparing my azure environment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Test.md",
+                "file": "posts/Preparing my azure environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Test.md",
+                "file": "posts/Preparing my azure environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Test.md"
+                "file": "posts/Preparing my azure environment.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "ebc445fc02910dda",
   "lastOpenFiles": [
     "templates/Post.md",
-    "posts/Test.md",
+    "posts/Preparing my azure environment.md",
     "_index.md",
     "posts/Post.md",
     "templates",
