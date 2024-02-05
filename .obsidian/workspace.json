@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Post.md",
+                "file": "posts/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Post.md",
+                "file": "posts/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Post.md",
+                "file": "posts/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Post.md"
+                "file": "posts/Test.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "ebc445fc02910dda",
   "lastOpenFiles": [
-    "posts/Test.md",
     "templates/Post.md",
+    "posts/Test.md",
     "_index.md",
     "posts/Post.md",
     "templates",
